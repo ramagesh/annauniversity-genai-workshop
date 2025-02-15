@@ -1,1 +1,1 @@
-# abacus2024-genai
+# Anna University GenAI Workshop
